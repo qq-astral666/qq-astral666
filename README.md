@@ -1,16 +1,50 @@
-## Hi there 👋
+# Привет, я Владислав 👋
 
-<!--
-**qq-astral666/qq-astral666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчик из России. Специализируюсь на создании адаптивных, отзывчивых и семантически чистых веб-интерфейсов. Фокусируюсь на качестве кода, удобстве пользователей (UX) и скорости загрузки страниц.
 
-Here are some ideas to get you started:
+🌐 **Мой сайт-портфолио:** [qq-astral666.github.io](https://github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Обо мне
+
+- 🚀 Активно развиваюсь в направлении Frontend-разработки.
+- 🛠 Пишу чистый, структурированный код с использованием современных стандартов.
+- 📐 Уделяю особое внимание Pixel Perfect верстке и адаптивности под мобильные устройства.
+- 📚 Сейчас углубляю знания в JavaScript (ES6+) и изучаю современные инструменты сборки.
+
+---
+
+### 🛠 Технологический стек
+
+<p id="badges">
+  <img src="https://shields.io" alt="HTML5"/>
+  <img src="https://shields.io" alt="CSS3"/>
+  <img src="https://shields.io" alt="JavaScript"/>
+  <img src="https://shields.io" alt="Python"/>
+  <img src="https://shields.io" alt="Git"/>
+</p>
+
+---
+
+### 📁 Ключевые проекты
+
+*   **[DigitalGo](https://github.io)** — Корпоративный многостраничный сайт (5 страниц). Реализована живая фильтрация кейсов на JS, модальные окна, счетчики и FAQ-аккордеон.
+*   **[МедЦентр Плюс](https://github.io)** — Многостраничный сайт клиники семейной медицины (3 страницы). Интерактивные прайс-листы и адаптированное мобильное бургер-меню.
+*   **[AutoMaster](https://github.io)** — Адаптивный лендинг для автосервиса с упором на сетку Flexbox/Grid и скорость загрузки.
+
+---
+
+### 📊 GitHub Статистика
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="160px"/>
+  <img src="https://vercel.app" alt="Top Langs" height="160px"/>
+</p>
+
+---
+
+### ✉️ Как со мной связаться
+
+*   **Telegram:** [Ссылка на ваш личный профиль или канал]
+*   **Email:** [Ваша рабочая почта]
