@@ -26,8 +26,17 @@
 
 ### 📁 Ключевые проекты
 
+**macOS-приложения · C++20 · Qt 6/QML**
+
+- **[ClipStash](https://github.com/qq-astral666/ClipStash)** — менеджер буфера обмена в стиле Raycast: поиск, пины, автовставка. SQLite.
+- **[Isle](https://github.com/qq-astral666/Isle)** — Dynamic Island для выреза MacBook: плеер, фокус-таймер, полка для файлов. AppKit.
+- **[Pulse](https://github.com/qq-astral666/pulse)** — системный монитор в меню-баре: CPU, RAM, сеть, GPU, батарея. IOKit.
+- **[Hangar](https://github.com/qq-astral666/Hangar)** — дашборд проектов: сам определяет ботов, мини-аппы и сайты по импортам, показывает git-статус.
+- **[Kit](https://github.com/qq-astral666/Kit)** — лисёнок-питомец, который ходит по окнам и Dock. Анимация полностью в коде.
+
+**Сайты**
+
 <!-- Замени ссылки на реальные адреса проектов -->
-- **[ClipStash](https://github.com/qq-astral666/clipstash)** — менеджер буфера обмена для macOS в стиле Raycast. C++, Qt 6/QML, CMake, SQLite.
 - **[DigitalGo](https://qq-astral666.github.io/digitalgo)** — корпоративный сайт (5 страниц). Живая фильтрация кейсов на JS, модальные окна, счётчики, FAQ-аккордеон.
 - **[МедЦентр Плюс](https://qq-astral666.github.io/medcenter)** — сайт клиники семейной медицины (3 страницы). Интерактивные прайс-листы, мобильное бургер-меню.
 - **[AutoMaster](https://qq-astral666.github.io/automaster)** — адаптивный лендинг автосервиса на Flexbox/Grid, оптимизирован под скорость.
