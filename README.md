@@ -19,7 +19,7 @@
 ### 🛠 Технологический стек
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp" alt="Стек" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,qt,cmake,sqlite" alt="Стек" />
 </p>
 
 ---
@@ -27,6 +27,7 @@
 ### 📁 Ключевые проекты
 
 <!-- Замени ссылки на реальные адреса проектов -->
+- **[ClipStash](https://github.com/qq-astral666/clipstash)** — менеджер буфера обмена для macOS в стиле Raycast. C++, Qt 6/QML, CMake, SQLite.
 - **[DigitalGo](https://qq-astral666.github.io/digitalgo)** — корпоративный сайт (5 страниц). Живая фильтрация кейсов на JS, модальные окна, счётчики, FAQ-аккордеон.
 - **[МедЦентр Плюс](https://qq-astral666.github.io/medcenter)** — сайт клиники семейной медицины (3 страницы). Интерактивные прайс-листы, мобильное бургер-меню.
 - **[AutoMaster](https://qq-astral666.github.io/automaster)** — адаптивный лендинг автосервиса на Flexbox/Grid, оптимизирован под скорость.
