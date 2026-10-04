@@ -28,6 +28,7 @@
 
 **macOS-приложения · C++20 · Qt 6/QML**
 
+- **[Leap](https://github.com/qq-astral666/Leap)** - лаунчер для macOS для горячих клавиш.
 - **[ClipStash](https://github.com/qq-astral666/ClipStash)** — менеджер буфера обмена в стиле Raycast: поиск, пины, автовставка. SQLite.
 - **[Isle](https://github.com/qq-astral666/Isle)** — Dynamic Island для выреза MacBook: плеер, фокус-таймер, полка для файлов. AppKit.
 - **[Pulse](https://github.com/qq-astral666/pulse)** — системный монитор в меню-баре: CPU, RAM, сеть, GPU, батарея. IOKit.
