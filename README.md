@@ -19,7 +19,10 @@
 ### 🛠 Технологический стек
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,qt,cmake,sqlite" alt="Стек" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,postgres,redis,cpp,qt,cmake,sqlite" alt="Стек" />
+  <br/>
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
+  <img src="https://img.shields.io/badge/Telegram_Mini_Apps_SDK-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Mini Apps SDK" />
 </p>
 
 ---
