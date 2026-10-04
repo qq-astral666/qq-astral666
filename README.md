@@ -1,59 +1,72 @@
-# Привет, я Владислав 👋
+## Привет, я Влад 👋
 
-Разрабатываю сайты, Telegram-ботов и мини-аппы для малого бизнеса. Делаю адаптивные, быстрые и семантически чистые интерфейсы.
+Делаю Telegram-ботов, мини-приложения и сайты для малого бизнеса. Моя задача — убрать рутину: чтобы клиенты записывались сами, заявки не терялись в личке, а владелец видел всё в одном месте.
 
-🌐 **Портфолио:** [qq-astral666.github.io](https://qq-astral666.github.io)
-💬 **Обсудить проект:** [Telegram](https://t.me/qq_astral)
+Живу в Хабаровске, работаю удалённо с любым городом. Беру проекты от простой визитки до бота с админкой и оплатой.
 
----
+📩 Telegram: [@qq_astral](https://t.me/qq_astral) · 🌐 [qq-astral666.github.io](https://qq-astral666.github.io)
 
-### 💻 Обо мне
+### Что делаю
 
-- 🤖 **Для бизнеса:** Telegram-боты, мини-аппы и сайты — заявки, запись, каталоги, автоматизация рутины
-- 🖥 **Для себя:** нативные macOS-приложения на C++20 и Qt 6 — 5 проектов с релизами и DMG
-- 📦 Довожу до релиза: сборка, установщик, README, фиксы по фидбеку
-- 📱 Адаптив под мобильные и быстрая загрузка — по умолчанию, а не опция
+- **Telegram-боты:** онлайн-запись, приём заявок, каталог с корзиной, рассылки, напоминания клиентам.
+- **Mini Apps:** полноценный интерфейс прямо внутри Telegram, без установки приложения.
+- **Сайты:** лендинги и визитки с адаптивом под телефон и формой записи.
+- **Приложения для macOS:** нативные утилиты на C++ и Qt.
 
----
+### Сайты для бизнеса
 
-### 🛠 Технологический стек
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,postgres,redis,cpp,qt,cmake,sqlite" alt="Стек" />
-</p>
+- **[Wolfgang Barbershop](https://qq-astral666.github.io/wolfgang-barbershop/)** — лендинг барбершопа: услуги с ценами, мастера, запись прямо в WhatsApp без сервера.
+- **[Кафе-бар «МукА»](https://qq-astral666.github.io/demosite-myka/)** — концепт сайта, сделан для питча владельцу.
+- **[Шиномонтаж](https://qq-astral666.github.io/tire-servise/)** — сайт-визитка автосервиса с прайсом и формой записи.
 
 ---
 
-### 📁 Ключевые проекты
+### ⚡ [Leap](https://github.com/qq-astral666/Leap) — лаунчер для macOS на одной клавише
 
-**macOS-приложения · C++20 · Qt 6/QML**
+Горячие клавиши быстро заканчиваются: все сочетания с ⌘⌥⇧ уже заняты приложениями, а двадцать аккордов из четырёх клавиш никто не помнит. В Leap вместо этого одна **leader-клавиша**: нажимаешь Caps Lock, потом короткую последовательность.
 
-- **[Leap](https://github.com/qq-astral666/Leap)** - лаунчер для macOS для горячих клавиш.
-- **[ClipStash](https://github.com/qq-astral666/ClipStash)** — менеджер буфера обмена в стиле Raycast: поиск, пины, автовставка. SQLite.
-- **[Isle](https://github.com/qq-astral666/Isle)** — Dynamic Island для выреза MacBook: плеер, фокус-таймер, полка для файлов. AppKit.
-- **[Pulse](https://github.com/qq-astral666/pulse)** — системный монитор в меню-баре: CPU, RAM, сеть, GPU, батарея. IOKit.
-- **[Hangar](https://github.com/qq-astral666/Hangar)** — дашборд проектов: сам определяет ботов, мини-аппы и сайты по импортам, показывает git-статус.
-- **[Kit](https://github.com/qq-astral666/Kit)** — лисёнок-питомец, который ходит по окнам и Dock. Анимация полностью в коде.
+```
+Caps Lock → T          открыть Telegram
+Caps Lock → W → H      окно на левую половину экрана
+Caps Lock → O → D      открыть «Загрузки»
+Caps Lock → ; → U U U  громкость +3
+```
 
-**Сайты**
+Запоминать ничего не нужно: если замешкался, появляется панель с подсказками, что делает каждая следующая клавиша.
 
-<!-- Замени ссылки на реальные адреса проектов -->
-- **[DigitalGo](https://qq-astral666.github.io/digitalgo)** — корпоративный сайт (5 страниц). Живая фильтрация кейсов на JS, модальные окна, счётчики, FAQ-аккордеон.
-- **[МедЦентр Плюс](https://qq-astral666.github.io/medcenter)** — сайт клиники семейной медицины (3 страницы). Интерактивные прайс-листы, мобильное бургер-меню.
-- **[AutoMaster](https://qq-astral666.github.io/automaster)** — адаптивный лендинг автосервиса на Flexbox/Grid, оптимизирован под скорость.
+- Открывает приложения, папки, файлы и сайты, вставляет готовый текст, запускает команды.
+- Раскладывает окна по половинам, третям и четвертям экрана, переносит их на другой монитор.
+- Системные действия: громкость, тёмная тема, блокировка экрана.
+- Работает в любой раскладке: с русской Е срабатывает так же, как T.
+- Настройки в удобном редакторе с деревом клавиш или в JSON-файле.
 
----
-
-### 📊 GitHub статистика
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=qq-astral666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq-astral666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
-</p>
+**Под капотом:** C++20 и Qt 6 / QML. Перехват клавиш через `CGEventTap`, управление окнами через Accessibility API. Логика последовательностей — отдельное ядро на чистом C++ без Qt, покрытое тестами. Caps Lock переназначается на уровне HID-драйвера и восстанавливается при выходе.
 
 ---
 
-### ✉️ Контакты
+### Другие приложения для macOS (C++ / Qt 6)
 
-- **Telegram:** [@qq_astral](https://t.me/qq_astral)
-- **Email:** [vladypowerok@gmail.com](mailto:vladypowerok@gmail.com)
+- **[ClipStash](https://github.com/qq-astral666/ClipStash)** — менеджер буфера обмена: поиск по всей истории, превью ссылок, картинок и цветов, закрепление, автовставка. Пароли не сохраняет.
+- **[Pulse](https://github.com/qq-astral666/Pulse)** — системный монитор в строке меню: процессор по ядрам, память, сеть, GPU, батарея, топ процессов.
+- **[Isle](https://github.com/qq-astral666/Isle)** — Dynamic Island для выреза MacBook: музыка, таймер фокуса, полка для файлов.
+- **[Hangar](https://github.com/qq-astral666/Hangar)** — все проекты в одном окне: сам определяет, где бот, где сайт, где игра, и открывает нужную IDE.
+- **[Kit](https://github.com/qq-astral666/Kit)** — лисёнок, который живёт на рабочем столе: гуляет по окнам, следит за курсором, спит, пока тебя нет.
+- **[PRISM](https://github.com/qq-astral666/Prism)** — неоновый рогалик на собственном ECS и raylib, запускается в браузере через WebAssembly.
+
+### Стек
+
+**Боты и бэкенд**
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker&perline=10" height="48">
+
+**Фронтенд**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js,vite&perline=10" height="48">
+
+**Десктоп**
+
+<img src="https://skillicons.dev/icons?i=cpp,qt,cmake,apple&perline=10" height="48">
+
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2C2D72?style=for-the-badge&logo=python&logoColor=white)
+![Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
