@@ -66,7 +66,3 @@ Caps Lock → ; → U U U  громкость +3
 **Десктоп**
 
 <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,apple&perline=10" height="48">
-
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2C2D72?style=for-the-badge&logo=python&logoColor=white)
-![Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
